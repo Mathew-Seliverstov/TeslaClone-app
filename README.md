@@ -2,16 +2,16 @@
 
 [**download demo**](https://drive.google.com/file/d/1XNX4qNaXQHVIggAkO3q3dkLTOTrwvJEW/view?usp=sharing)
 
-# Stack:
+## Stack:
 - expo
 - react-native
 - js
 
-# To create build:
+## To create build:
 - ios:
    `expo build:ios`
 - android:
    `expo build:android`
   
-# To start the expo-app:
+## To start the expo-app:
   `yarn start`
