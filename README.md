@@ -1,6 +1,9 @@
 # TeslaClone-app
 
-[**download demo**](https://drive.google.com/file/d/1XNX4qNaXQHVIggAkO3q3dkLTOTrwvJEW/view?usp=sharing)
+![Tesla](/assets/img1.jpg/raw=?)
+![Tesla](/assets/img2.jpg/raw=?)
+![Tesla](/assets/img3.jpg/raw=?)
+![Tesla](/assets/img4.jpg/raw=?)
 
 ## Stack:
 - expo
