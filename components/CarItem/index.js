@@ -19,8 +19,8 @@ const CarItem = (props) => {
                 </Text>
             </View>
             <View style={styles.buttonsContainer}>
-                    <StyledButton link={inventoryLink} title={'авто в наличии'} colors={['#171a20cc', '#ffffff']} />
-                    <StyledButton link={customLink} title={'конфигуратор'} colors={['#ffffffa6', '#171a20']} />
+                    <StyledButton link={inventoryLink} title={'vehicles in stock'} colors={['#171a20cc', '#ffffff']} />
+                    <StyledButton link={customLink} title={'configurator'} colors={['#ffffffa6', '#171a20']} />
             </View>
         </View>
     );
